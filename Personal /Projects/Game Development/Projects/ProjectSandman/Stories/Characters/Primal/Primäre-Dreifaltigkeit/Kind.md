@@ -8,6 +8,7 @@ aliases:
   - The Past
   - Echo
   - Die Erinnerung des Universums
+  - Breath of the Forest
 ---
 Wesen der Magie. Das Resultat aus Chaos und Ordnung, Nacht und Tag, Freier Wille und absolute Ordnung.
 Es ist keine Entität an sich. Die Entität besteht aus alle den Bestandteilen des Univserums. Es ist der [[Wald der Träume]] selbst. 
