@@ -8,7 +8,7 @@
   "spellcheckLanguages": null,
   "defaultViewMode": "preview",
   "showUnsupportedFiles": true,
-  "livePreview": true,
+  "livePreview": false,
   "uriCallbacks": true,
   "useMarkdownLinks": false,
   "readableLineLength": true,

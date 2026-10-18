@@ -1,0 +1,5 @@
+- Neue Identität, selbe Person
+- [[Them|Er]] zerfällt. Erst sein Körper, dann sein Geist. Gedanken fließen von jetzt zurück in die Vergangenheit. Persönliche Merkmale werden zu Erfahrungen, zu Erinnerungen, zu Momenten, zu Gefühlen zu .... Nichts.
+- Stimmen. Irgendwo aus der Dunkelheit im See erscheinen Stimmen. Neue Gefühle. Neue Momente und Erinnerungen. Stimmen, die zu ihm aufsehen. Stimmen, die ihn um Hilfe beten. Gefühle, die sich nach ihm sehnen. 
+- Die Identität formt sich aus vielen Dingen. Einer dieser Dinge ist das Soziale Umfeld.
+- Diese neue Stimmen formen die neue Persönlichkeit. Der Gott entfacht ihre neue Kraft.

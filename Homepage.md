@@ -7,6 +7,7 @@ banner_y: 0.5
 - 🎮 GameDev
 	- [[GameDev Project]]
 	- [[Game Jams]]
+	- [[Checklists|Self-Study]]
 - 💻 Software
 	- Obsidian-Plugins
 	- [[Personal_Improvements]]
@@ -14,9 +15,6 @@ banner_y: 0.5
 	- Gaming Consoles
 	- PC-Build
 - ℹ️ [[ObsidianInfos]] 
-# Studium
-- Letztes Semester
-	- [[Medieninformatik]]
 
 # Hobbies / Freizeit
  - 💃Dancing
@@ -24,3 +22,7 @@ banner_y: 0.5
  - 🎮 Games
  - 🎥 Movies
  - 🌠 Misc
+
+# Past
+- Letztes Semester
+	- [[Medieninformatik]]

@@ -21,7 +21,7 @@ aliases:
   - Future
 ---
 
-Der Tod ist die große allwissende Architektin. Die große, erste Hexe. Königin der Nacht und Erfinderin der Zeit. Ihre Webekunst bindet die Kräfte des Universums zu einer stabilen Realität. Sie ist das Ende. Ohne sie gibt es kein Anfang. Kein Leben (zumindest wie wir sie kennen), nur [[Vater|Chaos]]. Der Grund, warum die Welten nicht auseinanderfallen, ist durch ihren Einfluss. 
+Der Tod ist die große allwissende Architektin. Die große, erste Hexe. Königin der Nacht und Erfinderin der Zeit. Ihre Webekunst bindet die Kräfte des Universums zu einer stabilen Realität. Sie ist das Ende. Ohne sie gibt es kein Anfang. Kein Leben (zumindest wie wir sie kennen), nur [[Vater|Chaos]] und Nichts. Der Grund, warum die Welten nicht auseinanderfallen, ist durch ihren Einfluss. 
 
 Sie selbst hat kaum bis keine "rohe" Macht. Allerdings weiß sie als Hexe die Mächte des [[Vater|Chaos]] zu bändigen und zugunsten ihrer Kreation zu weben. Ihr Wissen und Können ist ihre wahre Macht. Genauso wie Wissenschaftler, Architekten und andere Wesen, die etwas kreiieren, braucht sie Ressourcen der Natur um ihre Ideen zu verwirklichen.
 
@@ -48,8 +48,6 @@ Es gibt verschiedene "Aspekte" in Form von Entitäten / Göttern, die den Willen
 
 # Gift of Death
 Death barely brings death to mortals. But if she does, it is a carefully calculated one. Her gifts is her will being executed.
-
-
 
 # Steckbrief 
 

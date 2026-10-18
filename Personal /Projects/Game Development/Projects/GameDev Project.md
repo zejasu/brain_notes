@@ -7,6 +7,7 @@ cssclasses:
 	- [[Personal /Projects/Game Development/Projects/Eye of Raziel/Eye of Azriel]]
 	- [[Project Sandman]]
 	-  [[GoodBoyInc]]
+	- [[Personal /Projects/Game Development/Projects/three-dee-tic-tac-toe/Dashboard|3D-Tic-Tac-Toe]]
 	- [[Ideas]]
 - Mods
 	- [[Mods.base|Base]]
